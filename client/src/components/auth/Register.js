@@ -20,7 +20,7 @@ const Register = () => {
   return (
     <div className="form-container">
       <h1>
-        Cuenta <span className="text-primary">Registrar</span>
+        <span className="text-primary">Registrar</span> Cuenta
       </h1>
       <form onSubmit={onSubmit}>
         <div className="form-group">
